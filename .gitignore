@@ -1,0 +1,32 @@
+# Ignore all intermediate files
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+Build/
+
+# Ignore user settings
+.vscode/
+*.user
+*.userprefs
+*.suo
+*.opensdf
+*.log
+*.tlog
+*.VC.db
+*.VC.VC.opendb
+*.pdb
+*.obj
+*.db
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
+
+# Ignore config backups
+*.bak
+*.tmp
+
+# Optional: Ignore large asset caches (edit carefully)
+*.uasset
+*.umap
