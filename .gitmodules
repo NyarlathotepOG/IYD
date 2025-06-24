@@ -1,0 +1,15 @@
+[submodule "Design/Zones/HQ"]
+	path = Design/Zones/HQ
+	url = https://github.com/NyarlathotepOG/IYD-Zone-HQ.git
+[submodule "Design/Zones/Industrial"]
+	path = Design/Zones/Industrial
+	url = https://github.com/NyarlathotepOG/IYD-Zone-Industrial.git
+[submodule "Design/Zones/RnD"]
+	path = Design/Zones/RnD
+	url = https://github.com/NyarlathotepOG/IYD-Zone-RnD.git
+[submodule "Design/Zones/Residential"]
+	path = Design/Zones/Residential
+	url = https://github.com/NyarlathotepOG/IYD-Zone-Residential.git
+[submodule "Design/Zones/Penitentiary"]
+	path = Design/Zones/Penitentiary
+	url = https://github.com/NyarlathotepOG/IYD-Zone-Penitentiary.git
